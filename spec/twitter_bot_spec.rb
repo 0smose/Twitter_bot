@@ -1,4 +1,4 @@
-require_relative '../lib/test.rb'
+require_relative '../lib/twitter_bot.rb'
 
 
 describe "the login_twitter method" do
